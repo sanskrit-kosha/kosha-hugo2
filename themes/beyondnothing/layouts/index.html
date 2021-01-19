@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+<head>
+<meta charset="utf-8">
+{{ .Hugo.Generator }}
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link href="//fonts.googleapis.com/css?family=Open+Sans:400,800" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/styles/github.min.css">
+<link rel="stylesheet" href="/css/normalize.css">
+<link rel="stylesheet" href="/css/skeleton.css">
+<link rel="stylesheet" href="/css/custom.css">
+<title>Sanskrit Koshas</title>
+</head>
+<body>
+
+<div class="container">
+
+	<header role="banner">
+	<h1>Sanskrit Koshas</h1>
+	</header>
+	
+	<main role="main">
+{{ range (where .Site.RegularPages ".Params.hidefromhome" "!=" "true") }}
+
+
+			<h2 class="entry-title" itemprop="headline"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+
+{{ end }}
+
+	</main>
+
+	<footer role="contentinfo">
+		<div class="hr"></div>
+		<div class="footer-link">
+<a href="https://github.com/sanskrit-kosha/kosha">Site</a>
+		</div>
+	</footer>
+
+</div>
+
+</body>
+</html>
