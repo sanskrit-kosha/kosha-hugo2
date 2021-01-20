@@ -1,0 +1,14 @@
+---
+title: sarzapa
+---
+
+# sarzapa
+
+<i>sarṣapa</i>  <div n="P" />(1) <bot>BRASSICA CAMPESTRIS LINN.</bot> (Bpn, p. 651; Dgm, p. 121; Gul; [Page-607+ 36] <div n="lb" />HK; V 9, p. 97: <i>gaurasarṣapa;</i> Vśs) [= <bot>B. CAMPESTRIS LINN. VAR. <div n="lb" />RAPA (LINN.) HARTM.</bot>] (Chopra: <i>kālasarṣapa;</i> KB 1, p. 165-166: <div n="lb" /><i>kālasarṣapa;</i> Nadk. 1, nr. 376: <i>raktasarṣapa</i>) (see Hooker 1, p. 156) <div n="lb" />[= <bot>B. CAMPESTRIS LINN. VAR. SARSON PRAIN</bot>] (Nadk. 1, nr. 376: <div n="lb" /><i>raktasarṣapa</i>) (see Watt CP, p. 175-177) = <bot>B. RAPA LINN.</bot> (KB 1, p. <div n="lb" />165-166) = <bot>SINAPIS GLAUCA ROXB.</bot> (HK; Nadk. 1, nr. 2306: <i>raktasar-</i> <div n="lb" /><i>ṣapa</i>) = <bot>S. DICHOTOMA ROXB. EX FLEM.</bot> (Ainslie 1, p. 231; Avk; Nadk. <div n="lb" />1, nr. 2306; Vśs; Wise); <div n="P" />(2) <bot>BRASSICA JUNCEA COSS.</bot> [= <bot>B. JUNCEA HOOK. F. ET THOMS.</bot>] <div n="lb" />(Dutt: <i>rājasarṣapa;</i> HK, = <i>rājikā</i>) (see Hooker 1, p. 157) = <bot>B. JUNCEA</bot> <div n="lb" />(Avk: <i>gaurasarṣapa;</i> Sanyal; Vśs, = <i>rājikā</i>) = <bot>SINAPIS JUNCEA LINN.</bot> <div n="lb" />(Avk; Nadk. 1, nr. 2307: <i>rājasarṣapa = rājikā;</i> Vśs) = <bot>S. RAMOSA <div n="lb" />ROXB. EX FLEM.</bot> (Avk; Dutt; HK; Nadk. 1, nr. 2307) = <bot>S. CUNEIFO- <div n="lb" />LIA ROXB.</bot> (Nadk. 1, nr. 2307) = <bot>S. RUGOSA ROXB.</bot> (Nadk. 1, nr. 2307); <div n="P" />(3) <bot>BRASSICA NIGRA KOCH</bot> (KB 1, p. 168-170: <i>kṛṣṇa-, raktasarṣapa;</i> <div n="lb" />Nadk. 1, nr. 379) [= <bot>B. NIGRA LINN.</bot>] (Na 1, nr. 25) = <bot>B. NIGRA</bot> (Dgm, <div n="lb" />p. 121; Dgv, nr. 25; Nadk. 1, nr. 2307: <i>rājasarṣapa = rājikā;</i> Vśs: <div n="lb" /><i>kṛṣṇasarṣapa</i>) = <bot>SINAPIS NIGRA LINN.</bot> (KB 1, p. 168-170) = <bot>S. ERYSI- <div n="lb" />MOIDES ROXB.</bot> (KB 1, p. 168-170); <div n="P" />(4) <bot>ERUCA SATIVA MILLER</bot> [= <bot>E. SATIVA LAM.</bot>] (Avk; KB 1, p. 170- <div n="lb" />171) = <bot>E. SATIVA GARS.</bot> (KB 1, p. 170-171); <div n="P" />(5) <bot>PANICUM COLONUM LINN.</bot> (Wise).
+
+lnum: 254
+
+image: [606](https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=snp&page=606)
+
+cologne link: [sarzapa](https://sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=snp&key=sarzapa)
+

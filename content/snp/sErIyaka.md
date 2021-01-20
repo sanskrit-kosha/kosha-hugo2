@@ -1,0 +1,14 @@
+---
+title: sErIyaka
+---
+
+# sErIyaka
+
+sairīyaka  = saireyaka <div n="P" />(1) Barleria cristata Linn. (Bpn, puṣpavarga 51-52; Kai.Nigh., oṣa- <div n="lb" />dhivarga 1047cd-1050ab; DGV 5, p. 293-295; Bt.; KB 3, p. 1877-1879) (śveta-, <div n="lb" />raktapuṣpa); <div n="P" />(2) B. prionitis Linn. (Gul; Bpn, puṣpavarga 51-52; Kai.Nigh., ibid.; <div n="lb" />Bt.; DGV 5, p. 293-295) (pītapuṣpa); <div n="P" />(3) B. strigosa Willd. (Bpn, puṣpavarga 51-52; Kai.Nigh., ibid.; Bt.; <div n="lb" />DGV 5, p. 293-295; KB 3, p. 1880-1881) (nīlapuṣpa).
+
+lnum: 438
+
+image: [457](https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=snp&page=457)
+
+cologne link: [sErIyaka](https://sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=snp&key=sErIyaka)
+

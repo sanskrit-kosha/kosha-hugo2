@@ -1,0 +1,14 @@
+---
+title: muYja
+---
+
+# muYja
+
+<i>muñja</i>  <div n="P" />(1) <bot>SACCHARUM ARUNDINACEUM RETZ.</bot> (Chopra; HK; KB 4, p. 2665- <div n="lb" />2666; V 9, p. 92) = <bot>S. CILIARE ANDERSS.</bot> (KB 4, p. 2666-2668) = <bot>S. <div n="lb" />MUNJA ROXB.</bot> (Bpn, p. 380; Chopra; Dutt; HK; MW; PW) = <bot>S. <div n="lb" />MOONJA ROYLE</bot>; <bot>S.</bot><bot>A. RETZ</bot> and <bot>S. M. ROXB.</bot> are regarded as distinct <div n="lb" />species by Chopra and KB; see, however, Hooker 7, p. 119-120; <div n="P" />(2) <bot>S. SARA ROXB.</bot> (MW; Vśs).
+
+lnum: 205
+
+image: [590](https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=snp&page=590)
+
+cologne link: [muYja](https://sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=snp&key=muYja)
+

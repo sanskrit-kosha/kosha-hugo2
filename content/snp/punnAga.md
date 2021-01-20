@@ -1,0 +1,14 @@
+---
+title: punnAga
+---
+
+# punnAga
+
+<i>punnāga</i>  <div n="P" />(1) <bot>CALOPHYLLUM INOPHYLLUM LINN.</bot> (Dgv, nr. 40; Dgm, p. 235-236; <div n="lb" />Dutt; DWH 1, p. 173-176; HK; IRM 2, p. 18-19; KB 1, p. 270-271; <div n="lb" />MW; Na 1, nr. 45; Nadk. 1, nr. 425; V 6, p. 124; Vśs); <div n="P" />(2) <bot>C. TOMENTOSUM WIGHT</bot> (Dgm, p. 235-236); <div n="P" />(3) <bot>C. WIGHTIANUM WALL.</bot> (Dgm, p. 235-236); <div n="P" />(4) <bot>C. APETALUM WILLD.</bot> (Dgm, p. 235-236) = <bot>C. INOPHYLLUM</bot>?; <div n="P" />(5) <bot>OCHROCARPUS LONGIFOLIUS BENTH. ET HOOK. F. EX T. ANDERS.</bot> <div n="lb" />(DWH 1, p. 172-173; KB 1, p. 269-270; Nadk. 1, nr. 731); <div n="P" />(6) [<bot>CALLITRIS INOPHYLLUM LINN.</bot>] (Nadk. 1, nr. 422); <div n="P" />(7) <bot>MALLOTUS PHILIPPINENSIS MUELL. ARG.</bot> (KB 3, p. 2267-2270) = <div n="lb" /><bot>ROTTLERA TINCTORIA ROXB.</bot> (KB 3, p. 2267; MW; PW; Roxb., p. 737); <div n="P" />(8) nutmeg, i. e. the seed of <bot>MYRISTICA FRAGRANS HOUTT.</bot> (<i>jātīphala</i>) <div n="lb" />(MW; PW; Vśs); <div n="P" />(9) white lotus (MW; PW; Vśs: <i>śvetapadma</i>).
+
+lnum: 165
+
+image: [576](https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=snp&page=576)
+
+cologne link: [punnAga](https://sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=snp&key=punnAga)
+

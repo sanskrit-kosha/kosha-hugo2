@@ -1,0 +1,14 @@
+---
+title: tintiqI
+---
+
+# tintiqI
+
+tintiḍī(ka)  <div n="P" />(1) Tamarindus indica Linn. (HK; DGV 2-3, p. 328; Nadk. 1, nr. 2434; <div n="lb" />Na 1, nr. 178; Raison; V. 1, p. 145; DWH 1, p. 531; Dutt; DEP 6, 3, p. 404; <div n="lb" />Bpn, āmrādivarga 142: tintiḍī); <div n="P" />(2) Rhus parviflora Roxb. (Dgv, nr. 154; Na 1, nr. 121; CD, p. 300; <div n="lb" />VG; Bpn, āmrādivarga 142: tintiḍīka).
+
+lnum: 339
+
+image: [440](https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=snp&page=440)
+
+cologne link: [tintiqI](https://sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=snp&key=tintiqI)
+

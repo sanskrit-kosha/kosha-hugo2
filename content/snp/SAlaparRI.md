@@ -1,0 +1,14 @@
+---
+title: SAlaparRI
+---
+
+# SAlaparRI
+
+<i>śālaparṇī</i>  <div n="P" /><bot>DESMODIUM GANGETICUM DC.</bot> (Bpn, p. 285; Chopra; Dutt; DWH 1, <div n="lb" />p. 428-429; Dy, p. 222; Gul; HK; IRM 3, p. 41; Kav; MW; Nadk. 1, <div n="lb" />nr. 1192; PW; Sanyal; V 9, p. 58; Vśs) = <bot>HEDYSARUM GANGETICUM <div n="lb" />LINN.</bot> (Avk; Chopra; Dutt; HK; Kav; Nadk. 1, nr. 1192; PW; Vśs; <div n="lb" />Wise).
+
+lnum: 244
+
+image: [602](https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=snp&page=602)
+
+cologne link: [SAlaparRI](https://sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=snp&key=SAlaparRI)
+

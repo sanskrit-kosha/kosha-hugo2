@@ -1,0 +1,14 @@
+---
+title: SrIPala
+---
+
+# SrIPala
+
+śrīphala  <div n="P" />(1) = bilva (HK; Dgv; Na 1, nr. 90; Nadk. 1, nr. 62; Bt.; Dha.nigh. 1, <div n="lb" />106; Rā.nigh. 11, 34); <div n="P" />(2) = āmalakī (V. 1, p. 127; Nadk. 1, nr. 932); <div n="P" />(3) = rājādana (Rā.nigh. 11, 146-147).
+
+lnum: 427
+
+image: [454](https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=snp&page=454)
+
+cologne link: [SrIPala](https://sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=snp&key=SrIPala)
+

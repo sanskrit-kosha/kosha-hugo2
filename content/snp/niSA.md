@@ -1,0 +1,14 @@
+---
+title: niSA
+---
+
+# niSA
+
+niśā  <div n="P" />= haridrā.
+
+lnum: 362
+
+image: [444](https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=snp&page=444)
+
+cologne link: [niSA](https://sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=snp&key=niSA)
+

@@ -1,0 +1,14 @@
+---
+title: cukrikA
+---
+
+# cukrikA
+
+<i>cukrikā = cukra</i>  <div n="P" />(1) <bot>RUMEX VESICARIUS LINN.</bot> (Ainslie 1, p. 398-400; Bpn, p. 663; <div n="lb" />Chopra; Dgv, nr. 260; DWH 3, p. 157-158; Dy, p. 658-659; Gul; HK; <div n="lb" />Nadk. 1, nr. 2176; PW); <div n="P" />(2) <bot>RUMEX ACETOSELLA LINN.</bot> (Nadk. 1, nr. 2170); <div n="P" />(3) <bot>OXALIS CORNICULATA LINN.</bot> (Ainslie 2, p. 324-326; Avk; Bpn, p. <div n="lb" />663: = <i>cāṅgerī;</i> KB 1, p. 437-438: = <i>cāṅgerī = amlaloṇikā;</i> Vśs: = <div n="lb" /><i>amlaloṇikā</i>) = <bot>O. PUSILLA SALISB.</bot> (Roxb., p. 389); <div n="P" />(4) = <i>amlavetasa</i> (PW; Vśs); <div n="P" />(5) = <i>vṛkṣāmla</i> (PW; Vśs); <div n="P" />(6) = <i>phalāmla</i> (KB 1, p. 262-263); <div n="P" />(7) = <i>cukravāstūka</i> (Vśs, unidentified); Vśs: <i>vāstūka</i> is <bot>CHENO- <div n="lb" />PODIUM ALBUM LINN.</bot>; <div n="P" />(8) = <i>amlapālaṅka</i> (Vśs, unidentified); <div n="P" />(9) <bot>TAMARINDUS INDICA LINN.</bot> (KB 2, p. 887-890; PW; Vśs).
+
+lnum: 102
+
+image: [554](https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=snp&page=554)
+
+cologne link: [cukrikA](https://sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=snp&key=cukrikA)
+

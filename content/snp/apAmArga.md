@@ -1,0 +1,14 @@
+---
+title: apAmArga
+---
+
+# apAmArga
+
+<i>apāmārga</i>  <div n="P" />(1) <bot>ACHYRANTHES ASPERA LINN.</bot> (AFM 1, p. 4-6; Ainslie 2, p. 221- [Page-525+ 37] <div n="lb" />222; Avk: <i>śvetāpāmārga;</i> Bpn, p. 414; Chopra; Dgv, nr. 259; Dutt; <div n="lb" />DWH 2, p. 65 and 3, p. 135-138; Dy, p. 651-652; Ghosh; Gul; HB; <div n="lb" />HK; IRM 1, p. 24; Kav; KB 3, p. 2066-2068; MW; Nadk. 1, nr. 33; <div n="lb" />PA 1, 6, p. 54-64; PW; Sanyal; V 1, p. 45; Vśs) = <bot>A. OBTUSIFOLIA <div n="lb" />LAM.</bot> (AFM 1, p. 4; Avk) [= <bot>A. HEPTAPETALUM ROXB.</bot>] (HK) = <bot>A. <div n="lb" />INDICA MILL.</bot> [= <bot>A. INDICA ROXB.</bot>] (Avk); <div n="P" />(2) <bot>A. BIDENTATA BLUME</bot> (Avk; Chopra; Dutt; KB 3, p. 2069; Vśs) <div n="lb" />= <bot>A. ASPERA WALL.</bot>; <div n="P" />(3) [<bot>A. SPICATA BURM.</bot>] (Avk); <div n="P" />(4) <bot>CYATHULA GENICULATA LOUR.</bot> [Intern. Code: Cyathula is a nom. <div n="lb" />conserv.] = <bot>C. PROSTRATA BLUME</bot> (PA 1, 6, p. 54, footnote: <i>kṣudrāpā-</i> <div n="lb" /><i>mārga</i>) = <bot>DESMOCHAETA PROSTRATA DC.</bot> = <bot>PUPALIA PROSTRATA R. BR.</bot>
+
+lnum: 9
+
+image: [524](https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=snp&page=524)
+
+cologne link: [apAmArga](https://sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=snp&key=apAmArga)
+

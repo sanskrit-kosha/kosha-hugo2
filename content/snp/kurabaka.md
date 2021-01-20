@@ -1,0 +1,24 @@
+---
+title: kurabaka
+---
+
+# kurabaka
+
+kurabaka  = kuravaka = kurubaka (see also the additions on pp. 460f.) <div n="P" />(1) Barleria cristata Linn. (Kai.Nigh., oṣadhivarga 1049a; KB 3, p. <div n="lb" />1879-1880); <div n="P" />(2) Rhododendron species (Bt.); <div n="P" />(3) Lawsonia inermis Linn. = L. alba Lamk. (Nadk. 1, nr. 1448).
+
+lnum: 305
+
+image: [434](https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=snp&page=434)
+
+cologne link: [kurabaka](https://sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=snp&key=kurabaka)
+
+# kurabaka
+
+kurabaka  = kuravaka = kurubaka <div n="P" />(1) Change to: Barleria cristata Linn. (Bpn, puṣpavarga 52; Dha.nigh., <div n="lb" />ed. P.V. Sharma, 1, 268-269; Dha.nigh., ed. Ojhā, 1, 278-279; DGV 5, p. <div n="lb" />293-295; Dutt: kuruvaka; Kai.Nigh., oṣadhivarga 1047cd-1050ab; KB 3, p. <div n="lb" />1879-1880; Na 2, nr. 390; Vśs) = B. ciliata Roxb. (Rā.nigh., ed. Tripā- <div n="lb" />ṭhī, karavīrādivarga 129-130; see Hooker 4, p. 488; cf. DWH 3, p. 44-45: <div n="lb" />Barleria species); [Page-461+ 34] <div n="P" />(2) Add the following references: DGV 5, p. 294; see Na 2, nr. 390. <div n="P" />(3) Add the following reference: Sheriff 167: kuravaka. <div n="P" />Add the following identification: <div n="P" />(4) = śvetamandāraka (Rā.nigh. 10, 31): unidentified.
+
+lnum: 445
+
+image: [460](https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=snp&page=460)
+
+cologne link: [kurabaka](https://sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=snp&key=kurabaka)
+

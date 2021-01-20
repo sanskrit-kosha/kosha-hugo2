@@ -1,0 +1,14 @@
+---
+title: maDukarkawI
+---
+
+# maDukarkawI
+
+madhukarkaṭī  <div n="P" />(1) Citrus grandis (Linn.) Osbeck = C. decumana Linn. (pomelo) (AVI, <div n="lb" />p. 362; Kai.Nigh., oṣadhivarga 262; Bpn, āmrādivarga 133) = C. maxima <div n="lb" />Merr. (KB 1, p. 495-496); <div n="P" />(2) Citrus limettioides Tanaka = C. medica var. limetta W. et A. <div n="lb" />(Nadk. 1, nr. 602); <div n="P" />(3) Carica papaya Linn. (Na 1, nr. 225).
+
+lnum: 389
+
+image: [447](https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=snp&page=447)
+
+cologne link: [maDukarkawI](https://sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=snp&key=maDukarkawI)
+

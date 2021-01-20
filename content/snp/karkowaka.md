@@ -1,0 +1,14 @@
+---
+title: karkowaka
+---
+
+# karkowaka
+
+<i>karkoṭaka</i>  <div n="P" />(1) <bot>MOMORDICA COCHINCHINENSIS SPRENG.</bot> (Avk) = <bot>M. MIXTA ROXB.</bot> <div n="lb" />(Kav; MW; PW) = <bot>M. DIOICA WALL.</bot> = <bot>MURICIA COCHINCHINENSIS <div n="lb" />LOUR.</bot> (Avk); <div n="P" />(2) a) <bot>MOMORDICA DIOICA ROXB.</bot> (Gul); <div n="lb" />b) <bot>M. DIOICA</bot> (<bot>ROXB.</bot>? <bot>WALL.</bot>?) (Dgv, nr. 169; Na 1, nr. 232); <div n="lb" />c) a creeper with an edible fruit (Vśs); <div n="P" />(3) the poisonous fruit of <i>parpaṭaka</i> (Vśs); <div n="P" />(4) <bot>AEGLE MARMELOS (LINN.) CORREA</bot> [Intern. Code] (MW; PW; Vśs); <div n="P" />(5) <bot>SACCHARUM OFFICINARUM LINN.</bot> (KB 4, p. 2662-2664; MW; PW; <div n="lb" />Vśs).
+
+lnum: 54
+
+image: [539](https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=snp&page=539)
+
+cologne link: [karkowaka](https://sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=snp&key=karkowaka)
+

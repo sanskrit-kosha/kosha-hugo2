@@ -1,0 +1,14 @@
+---
+title: mUlaka
+---
+
+# mUlaka
+
+<i>mūlaka</i>  <div n="P" />(1) <bot>RAPHANUS SATIVUS LINN.</bot>; <div n="P" />(2) = <i>uśīra</i> (Vśs); <div n="P" />(3) = the root of <i>śigru</i> (Vśs); <div n="P" />(4) = <i>kālaśāka:</i> <bot>CORCHORUS CAPSULARIS LINN.</bot> (PW); <div n="P" />(5) a sort of yam (i. e. a species of <bot>DIOSCOREA</bot>) (MW).
+
+lnum: 209
+
+image: [591](https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=snp&page=591)
+
+cologne link: [mUlaka](https://sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=snp&key=mUlaka)
+

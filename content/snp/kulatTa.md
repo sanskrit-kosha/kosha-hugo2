@@ -1,0 +1,14 @@
+---
+title: kulatTa
+---
+
+# kulatTa
+
+<i>kulattha</i>  <div n="P" />(1) <bot>DOLICHOS BIFLORUS LINN.</bot> (AFM 1, p. 64-66; Avk; Bpn, p. 649; <div n="lb" />Chopra; Dutt; DWH 1, p. 489; Ghosh; Gul; HK; IRM 3, p. 101-104; <div n="lb" />Kav; KB 1, p. 805-806; Roxb., p. 563; Vśs; Watt CP, p. 503-504; <div n="lb" />Wise) [= <bot>D. BIFLORUS LINN. VAR. UNIFLORUS LAM.</bot>] (Nadk. 1, nr. 864) [Page-545+ 33] <div n="lb" />= <bot>D. UNIFLORUS LAM.</bot> (AFM 1, p. 64-66; Dutt; HK; Kav; MW; Nadk. <div n="lb" />1, nr. 864; Vśs; Watt CP, p. 503-504); see Hooker 2, p. 210; <div n="P" />(2) <bot>CASSIA ABSUS LINN.</bot> (KB 2, p. 873-874).
+
+lnum: 70
+
+image: [544](https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=snp&page=544)
+
+cologne link: [kulatTa](https://sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=snp&key=kulatTa)
+

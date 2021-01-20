@@ -1,0 +1,14 @@
+---
+title: sArivA
+---
+
+# sArivA
+
+sārivā  <div n="P" />See śārivā.
+
+lnum: 430
+
+image: [455](https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=snp&page=455)
+
+cologne link: [sArivA](https://sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=snp&key=sArivA)
+

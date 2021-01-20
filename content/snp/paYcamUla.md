@@ -1,0 +1,14 @@
+---
+title: paYcamUla
+---
+
+# paYcamUla
+
+pañcamūla  <div n="P" />(1) bṛhatpañcamūla: bilva, kāśmarī, araṇikā, pāṭalā, śyonāka; <div n="P" />(2) hrasvapañcamūla: bṛhatī, kaṇṭakārikā, śālaparṇī, pṛśniparṇī,
+
+lnum: 364
+
+image: [444](https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=snp&page=444)
+
+cologne link: [paYcamUla](https://sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=snp&key=paYcamUla)
+

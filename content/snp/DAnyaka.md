@@ -1,0 +1,14 @@
+---
+title: DAnyaka
+---
+
+# DAnyaka
+
+<i>dhānyaka</i>  <div n="P" /><bot>CORIANDRUM SATIVUM LINN.</bot> (Ainslie 1, p. 91-92; Bpn, p. 34; Dgv, <div n="lb" />nr. 180; Dutt; Gul; HB; HK; Kav; KB 2, p. 1225-1227; MW; Na 1, nr. <div n="lb" />257; Nadk. 1, nr. 679: PA 1, 9, p. 128-136; PW; Roxb., p. 272).
+
+lnum: 135
+
+image: [565](https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=snp&page=565)
+
+cologne link: [DAnyaka](https://sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=snp&key=DAnyaka)
+

@@ -1,0 +1,14 @@
+---
+title: padminI
+---
+
+# padminI
+
+padminī  <div n="P" />The lotus plant: Nelumbo nucifera Gaertn.
+
+lnum: 366
+
+image: [444](https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=snp&page=444)
+
+cologne link: [padminI](https://sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=snp&key=padminI)
+

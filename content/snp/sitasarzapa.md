@@ -1,0 +1,14 @@
+---
+title: sitasarzapa
+---
+
+# sitasarzapa
+
+sitasarṣapa  <div n="P" />= siddhārtha (Rā.nigh. 16, 68-69; Nś. 398: śvetasarṣapa = siddhārtha).
+
+lnum: 432
+
+image: [455](https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=snp&page=455)
+
+cologne link: [sitasarzapa](https://sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=snp&key=sitasarzapa)
+

@@ -1,0 +1,14 @@
+---
+title: piyAla
+---
+
+# piyAla
+
+piyāla  <div n="P" />= priyāla.
+
+lnum: 377
+
+image: [446](https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=snp&page=446)
+
+cologne link: [piyAla](https://sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=snp&key=piyAla)
+

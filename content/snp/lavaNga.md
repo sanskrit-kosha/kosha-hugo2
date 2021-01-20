@@ -1,0 +1,14 @@
+---
+title: lavaNga
+---
+
+# lavaNga
+
+<i>lavaṅga</i>  <div n="P" />(1) <bot>SYZYGIUM AROMATICUM (LINN.) MERRILL ET PERRY</bot> (Bpn, p. 219; <div n="lb" />Chopra) = <bot>EUGENIA CARYOPHYLLATA THUNB.</bot> (Watt CP, p. 526-530) <div n="lb" />[= <bot>E. CARYOPHYLLATA WILLD.</bot>] (Nadk. 1, nr. 965; Roxb., p. 401); <div n="lb" />see Hooker 2, p. 506; [= <bot>E. CARYOPHYLLATA LINN.</bot>] (Ainslie 1, p. 75- <div n="lb" />77) = <bot>E. CARYOPHYLLATA</bot> (Nadk. 1, nr. 1682) [= <bot>E. AROMATICA <div n="lb" />KUNTZE</bot>] (Bpn, p. 219; Chopra) = <bot>E. AROMATICA BAILL.</bot> = <bot>CARYO- <div n="lb" />PHYLLUS AROMATICUS LINN.</bot> (Avk; Bpn, p. 219; Dgv, nr. 151; Dutt; <div n="lb" />DWH 2, p. 20-23; Gul; HB; HK; Kav; Na 1, nr. 213; Nadk. 1, nr. <div n="lb" />485; Vśs); <div n="P" />(2) <bot>EUGENIA CARYOPHYLLUS (SPRENG.) BULLOCK ET S. G. HARRISON</bot> <div n="lb" />= <bot>E. CARYOPHYLLAEA WIGHT</bot> = <bot>MYRTUS CARYOPHYLLUS SPRENG.</bot> <div n="lb" />(Nadk. 1, nr. 1682).
+
+lnum: 226
+
+image: [597](https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=snp&page=597)
+
+cologne link: [lavaNga](https://sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=snp&key=lavaNga)
+

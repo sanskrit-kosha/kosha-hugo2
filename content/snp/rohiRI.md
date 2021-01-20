@@ -1,0 +1,14 @@
+---
+title: rohiRI
+---
+
+# rohiRI
+
+<i>rohiṇī</i>  <div n="P" />(1) a) <bot>PICRORRHIZA KURROA ROYLE EX BENTH.</bot> (Bpn, p. 69 and HB: <div n="lb" />= <i>kaṭurohiṇī;</i> Kav); <div n="lb" />b) = <i>kaṭuṃbharā</i> (PW) (Bpn, <i>harītakyādivarga</i> 151: <i>kaṭaṃ-</i> <div n="lb" /><i>bharā</i> or <i>kaṭuṃbharā</i> is a synonym of <i>kaṭurohiṇī</i>); <div n="P" />(2) <bot>HELLEBORUS NIGER LINN.</bot> (MW; PW: = <i>kaṭurohiṇī</i>); <div n="P" />(3) <bot>TERMINALIA CHEBULA RETZ.</bot> (= <i>harītakī:</i> Bpn, p. 7; DWH 2, <div n="lb" />p. 1; HB; HK; KB 2, p. 1020-1023; PW); <div n="P" />(4) <bot>MYRICA NAGI THUNB.</bot> (HK, = <i>kaṭphala;</i> KB 3, p. 2350-2351); <div n="P" />(5) <bot>SOYMIDA FEBRIFUGA JUSS.</bot> (Avk; Chopra; Dgv, nr. 82, = <i>māṃsa-</i> <div n="lb" /><i>rohiṇī;</i> Gul; KB 1, p. 559-560; Na 1, nr. 106, = <i>māṃsarohiṇī;</i> Nadk. <div n="lb" />1, nr. 2349; V 9, p. 20) = <bot>SWIETENIA FEBRIFUGA ROXB.</bot> (KB 1, p. 559- <div n="lb" />560; Nadk. 1, nr. 2349) = <bot>S. RUBRA WIGHT EX WALL.</bot> (Nadk. 1, nr. <div n="lb" />2349); <div n="P" />(6) <bot>AMOORA ROHITUKA WIGHT ET ARN.</bot> (Avk, <i>rohitaka, rohiṇī;</i> Dgv, <div n="lb" />nr. 81: <i>rohītaka;</i> Dutt; DWH 1, p. 341-342, <i>rohitaka, rohiṇī;</i> Gul: <div n="lb" /><i>rohitaka;</i> HK; IRM 1, p. 86-87: <i>rohitaka;</i> KB 1, p. 551-553; <i>rohitaka</i>) <div n="lb" />= <bot>A. POLYSTACHYA WIGHT ET ARN.</bot> [= <bot>A. POLYSTACHYA HOOK. F. ET <div n="lb" />JACKS.</bot>] (KB 1, p. 551-553) = <bot>APHANAMIXIS ROHITUKA PIERRE</bot> [= <bot>APH. <div n="lb" />POLYSTACHYA BLATTER</bot>, <i>nov. comb.</i>] (KB 1, p. 551-553) [= <bot>APH. POLY</bot>- <div n="lb" />s<bot>TACHYA (WALL.) R. N. PARKER</bot>] (Chopra: <i>rohitaka;</i> IRM 1, p. 86-87); <div n="lb" />(acc. to the Index Kewensis this is a synonym of <bot>AGLAIA POLYSTACHYA</bot>; <div n="lb" />the latter plant is described in Roxburgh's Flora Indica, ed. 1824, <div n="lb" />acc. to KB); = <bot>ANDERSONIA ROHITUKA ROXB.</bot> (KB 1, p. 551-553; <div n="lb" />Roxb., p. 311: <i>rohitaka</i>); <div n="P" />(7) <bot>LORANTHUS LONGIFLORUS DESR.</bot> (V 6, p. 163) = <bot>DENDRO- <div n="lb" />PHTHOE</bot>7 <bot>FALCATA BLUME</bot>; <div n="P" />(8) ? <bot>TECOMA UNDULATA G. DON</bot> (KB 3, p. 1841-1842: <i>rohitaka</i>) = <div n="lb" /><bot>TECOMELLA UNDULATA SEEM.</bot> (Bpn, p. 527: <i>rohitaka</i>); <div n="P" />(9) <bot>RUBIA CORDIFOLIA LINN.</bot> (KB 2, p. 1303-1305; PW); <div n="P" />(10) <bot>GMELINA ARBOREA ROXB.</bot> [= <bot>G. ARBOREA LINN.</bot>] (MW; PW); <div n="P" />(11) <bot>ACACIA ARABICA WILLD.</bot> (MW; PW: = <i>somavalka</i>).
+
+lnum: 222
+
+image: [596](https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=snp&page=596)
+
+cologne link: [rohiRI](https://sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=snp&key=rohiRI)
+

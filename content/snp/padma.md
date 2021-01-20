@@ -1,0 +1,14 @@
+---
+title: padma
+---
+
+# padma
+
+<i>padma</i>  <div n="P" />(1) = <i>kamala;</i> <div n="P" />(2) <bot>EURYALE FEROX SALISB.</bot> (KB 1, p. 115-116) = <bot>ANNESLEA SPINOSA <div n="lb" />ANDR.</bot> (KB 1, p. 115-116); <div n="P" />(3) <bot>SALVADORA PERSICA LINN.</bot> (Vśs); <div n="P" />(4) = <i>padmakāṣṭha</i> (PW; Vśs); <div n="P" />(5) = <i>dhustūra</i> (see <i>dhattūra</i>) (Vśs); <div n="P" />(6) = <i>puṣkaramūla</i> (often identified as the root of <bot>IRIS GERMANICA <div n="lb" />LINN.</bot>) (Vśs); <div n="P" />(7) = <i>guggulu</i> (the gum of <bot>COMMIPHORA MUKUL ENGL.</bot>) (MW; PW); <div n="lb" />see about <i>padma</i> 1): <bot>W.</bot> Rau, Lotusblumen, in Festschrift <bot>F.</bot> Weller, <div n="lb" />1954, p. 505-513, 2): <bot>R.</bot> Schmidt, Beiträge zur Flora Sanscritica III, <div n="lb" />Der Lotus in der Sanskrit-Literatur, ZDMG 67, 1913, p. 462-470.
+
+lnum: 151
+
+image: [570](https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=snp&page=570)
+
+cologne link: [padma](https://sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=snp&key=padma)
+

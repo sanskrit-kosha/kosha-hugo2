@@ -1,0 +1,14 @@
+---
+title: kumArI
+---
+
+# kumArI
+
+kumārī  <div n="P" />Aloe vera Linn. (KB 4, p. 2505-2506; DEP 1, p. 183: ghṛtakumārī, p. 186: <div n="lb" />ghṛtakumārī, kanyā) = A. barbadensis Mill. (Kai.Nigh., oṣadhivarga <div n="lb" />1638; Bpn, guḍūcyādivarga 229-230; Chopra: ghṛtakumārī).
+
+lnum: 301
+
+image: [434](https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=snp&page=434)
+
+cologne link: [kumArI](https://sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=snp&key=kumArI)
+

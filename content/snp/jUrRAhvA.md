@@ -1,0 +1,14 @@
+---
+title: jUrRAhvA
+---
+
+# jUrRAhvA
+
+<i>jūrṇāhvā̆, jūrṇāhvaya</i>  <div n="P" />[<bot>SORGHUM VULGARE (LINN.) PERS. VAR. SACCHARATUM BOERL.</bot>] = <div n="lb" /><bot>S. VULGARE PERS.</bot> = <bot>ANDROPOGON BICOLOR ROXB.</bot> (MW) = <bot>A. SACCHA- <div n="lb" />RATUS ROXB.</bot> (PW); Dn, <i>varga</i> 6, 108: = <i>yāvanāla;</i> Pr 697 and Rn, <div n="lb" /><i>varga</i> 16, 169: = <i>devadhānya.</i>
+
+lnum: 109
+
+image: [557](https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=snp&page=557)
+
+cologne link: [jUrRAhvA](https://sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=snp&key=jUrRAhvA)
+

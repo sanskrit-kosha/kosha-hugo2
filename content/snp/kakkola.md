@@ -1,0 +1,14 @@
+---
+title: kakkola
+---
+
+# kakkola
+
+<i>kakkola</i>  <div n="P" />(1) <bot>PIPER CUBEBA LINN. F.</bot> (Gul); <div n="P" />(2) possibly the fruit of <bot>COCCULUS INDICUS</bot> (Avk; Vśs); Index <div n="lb" />Kewensis: <bot>COCCULUS INDICUS ROYLE</bot> = <bot>ANAMIRTA PANICULATA <div n="lb" />COLEBR.</bot>?; <div n="P" />(3) a species of plant bearing a berry, the inner side of which is <div n="lb" />waxy and aromatic (Kav; MW); <div n="P" />(4) a rutaceous berry, apparently that of <bot>LUVUNGA SCANDENS <div n="lb" />BUCH.</bot>-<bot>HAM.</bot> (DWH 1, p. 268).
+
+lnum: 36
+
+image: [532](https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=snp&page=532)
+
+cologne link: [kakkola](https://sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=snp&key=kakkola)
+

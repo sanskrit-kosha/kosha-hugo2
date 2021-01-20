@@ -1,0 +1,14 @@
+---
+title: tarkArI
+---
+
+# tarkArI
+
+tarkārī  <div n="P" />(1) Clerodendrum phlomidis Linn. f. (Dgv, nr. 247; Bt.; Sharma; Kai. <div n="lb" />Nigh., oṣadhivarga 25cd-26; CD, p. 267-270); <div n="P" />(2) Premna corymbosa Rottl. ex Willd. = P. integrifolia Linn. (HK; <div n="lb" />CD, p. 267-270; KB 3, p. 1927-1929); [Page-439+ 34] <div n="P" />(3) Sesbania aegyptiaca Pers. (HB).
+
+lnum: 334
+
+image: [438](https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=snp&page=438)
+
+cologne link: [tarkArI](https://sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=snp&key=tarkArI)
+

@@ -1,0 +1,14 @@
+---
+title: Alu
+---
+
+# Alu
+
+ālu(ka)  <div n="P" />(1) Dioscorea bulbifera Linn. (Bpn, śākavarga 94-95) and other <div n="lb" />species of Dioscorea (DWH 3, p. 551-552); <div n="P" />(2) Ipomoea batatas (Linn.) Lam. (Bpn, śākavarga 94-95); <div n="P" />(3) Alocasia indica Schott (Nadk. 1, nr. 109); <div n="P" />(4) Prunus persica Batsch (Bpn, śākavarga 94-95; Na 1, nr. 193); <div n="P" />(5) Amorphophallus campanulatus (Roxb.) Bl. ex Decne. (Raison).
+
+lnum: 281
+
+image: [430](https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=snp&page=430)
+
+cologne link: [Alu](https://sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=snp&key=Alu)
+

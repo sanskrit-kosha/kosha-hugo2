@@ -1,0 +1,14 @@
+---
+title: yava
+---
+
+# yava
+
+<i>yava</i>  <div n="P" />(1) <bot>HORDEUM VULGARE LINN.</bot> = <bot>H. SATIVUM PERS.</bot> = <bot>H. HEXASTI- <div n="lb" />CHON LINN.</bot> = <bot>H. DISTICHON LINN.</bot>; <div n="P" />(2) = <i>indrayava</i> (Bpn, p. 642).
+
+lnum: 214
+
+image: [592](https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=snp&page=592)
+
+cologne link: [yava](https://sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=snp&key=yava)
+

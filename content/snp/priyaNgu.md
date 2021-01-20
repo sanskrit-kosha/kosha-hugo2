@@ -1,0 +1,14 @@
+---
+title: priyaNgu
+---
+
+# priyaNgu
+
+<i>priyaṅgu</i>  <div n="P" />(1) <bot>SETARIA ITALICA BEAUV.</bot> (Avk; Gul; HK; KB 4, p. 2718-2719; <div n="lb" />MW; PW; Vśs) = <bot>PANICUM ITALICUM LINN.</bot> (Avk; Roxb., p. 101; <div n="lb" />Wise); <div n="P" />(2) <bot>AGLAIA ROXBURGHIANA MIQ.</bot> (Avk; Bpn, p. 248-251; Chopra; <div n="lb" />Dutt; DWH 1, p. 342-343; Gul; HK; Kav; Na 1, nr. 201; Nadk. 1, <div n="lb" />nr. 81); <div n="P" />(3) <bot>A. ODORATA LOUR.</bot> [Intern. Code] (HK; MW); <div n="P" />(4) <bot>A. DIEPENHORSTII MIQ.</bot> = <bot>A. ODORATISSIMA BLUME</bot> (KB 1, p. <div n="lb" />550-551; V 6, p. 99) = <bot>A. ROXBURGHIANA HIERN</bot> (KB 1, p. 550-551) <div n="lb" />= <bot>MILUCA ROXBURGHIANA WIGHT ET ARN.</bot> (KB 1, p. 550-551); <div n="P" />(5) <bot>PRUNUS MAHALEB LINN.</bot> (Avk; Bpn, p. 248-251; Chopra?; Dgv, <div n="lb" />nr. 144; Nadk. 1, nr. 2041; V 3, p. 69); <div n="P" />(6) <bot>CALLICARPA MACROPHYLLA VAHL</bot> (Bpn, p. 248-251); <div n="P" />(7) <bot>WOODFORDIA FLORIBUNDA SALISB.</bot> = <bot>W. FRUTICOSA KURZ</bot> (Vśs); <div n="P" />(8) <bot>MIMOSA RUBICAULIS LAM.</bot> (Vśs: = <i>rāla</i>); <div n="P" />(9) <bot>PIPER LONGUM LINN.</bot> (MW; PW); <div n="P" />(10) a) <bot>BRASSICA JUNCEA COSS.</bot> = <bot>SINAPIS RAMOSA ROXB. EX FLEM.</bot> <div n="lb" />(MW; PW); <div n="lb" />b) = <i>kṛṣṇasarṣapa</i> (see: <i>sarṣapa</i>) (Vśs); <div n="lb" />c) = <i>rājikā</i> (Vśs); <div n="P" />(11) = <i>kaṭukī</i> (PW; Vśs); <div n="P" />(12) = <i>śyāmā</i> (Vśs); <div n="P" />(13) <bot>PAPAVER DUBIUM LINN.</bot> (Bpn, p. 653).
+
+lnum: 169
+
+image: [578](https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=snp&page=578)
+
+cologne link: [priyaNgu](https://sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=snp&key=priyaNgu)
+

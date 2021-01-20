@@ -1,0 +1,14 @@
+---
+title: rAjAdana
+---
+
+# rAjAdana
+
+<i>rājādana = rājādanī</i>  <div n="P" />(1) <bot>MANILKARA HEXANDRA DUBARD</bot> [Intern. Code: Manilkara is a <div n="lb" />nom. conserv.] = <bot>MIMUSOPS HEXANDRA ROXB.</bot> (Avk; Bpn, p. 567; <div n="lb" />Chopra; Dutt; DWH 2, p. 364-365; Dy, p. 482; Gul; HK; Kav; KB <div n="lb" />2, p. 1496-1497; Nadk. 1, nr. 1624; PW; Vśs) = <bot>MIMUSOPS INDICA <div n="lb" />A. DC.</bot> (Dutt; HK; Kav; Nadk. 1, nr. 1624) = <bot>M. KAUKI WALL.</bot>; <div n="P" />(2) <bot>MANILKARA KAUKI (LINN.) DUBARD</bot> [Intern. Code] = <bot>MIMUSOPS <div n="lb" />KAUKI LINN.</bot> (MW; PW); <div n="P" />(3) <bot>ALSTONIA VENENATA R. BR.</bot> (Avk; Chopra; Nadk. 1, nr. 122); <div n="P" />(4) <bot>BUTEA MONOSPERMA KUNTZE</bot> = <bot>B. FRONDOSA ROXB.</bot> (MW; PW; <div n="lb" />Vśs); <div n="P" />(5) <bot>BUCHANANIA LATIFOLIA ROXB.</bot> (KB 1, p. 659-662; MW; PW; <div n="lb" />Vśs: = <i>pītaśāla</i>); <div n="P" />(6) <bot>B. LANZAN SPRENG.</bot> (KB 1, p. 659-662, considered as a synonym [Page-595+ 39] <div n="lb" />of <bot>B. LATIFOLIA</bot>); see about the nomenclature Cooke 1, p. 293-295; <div n="lb" />Brandis (Indian Trees, p. 205) regards 5) and 6) as synonyms; <div n="P" />(7) the seeds of <i>nīpa</i> (Vśs); <i>nīpa</i> is the large type of <i>kadamba</i> acc. <div n="lb" />to HK; Chopra and KB 2, p. 1057-1058: <bot>BARRINGTONIA RACEMOSA <div n="lb" />ROXB.</bot>; PW: = <i>dhārā-, dhūlīkadamba;</i> acc. to MW and PW <i>nīpa</i> has <div n="lb" />more meanings; see also Meyer, Trilogie 3, p. 67, note 4; <div n="P" />(8) = <i>kṣīriṇīvṛkṣa</i> (Vśs); <i>kṣīriṇīvṛkṣa</i> usually designates the two <div n="lb" />mentioned species of <bot>MANILKARA.</bot>
+
+lnum: 219
+
+image: [594](https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=snp&page=594)
+
+cologne link: [rAjAdana](https://sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=snp&key=rAjAdana)
+

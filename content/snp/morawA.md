@@ -1,0 +1,14 @@
+---
+title: morawA
+---
+
+# morawA
+
+<i>moraṭā</i>  <div n="P" />(1) = <i>mūrvā</i> (DWH 3, p. 493; MW; PW); <div n="P" />(2) <bot>HELIOTROPIUM INDICUM LINN.</bot> (Kauṭ., transl. <bot>J. J.</bot> Meyer p. 187, <div n="lb" />note 3: acc. to Bhaṭṭ.); <div n="P" />(3) <bot>HELIANTHUS ANNUUS LINN.</bot> = <bot>H. INDICUS LINN.</bot> (ibid., acc. to <div n="lb" />Gaṇ.); <div n="P" />(4) <bot>ALANGIUM DECAPETALUM LAM.</bot> [Intern. Code] = <bot>A. HEXAPETA- <div n="lb" />LUM ROXB.</bot> (Kauṭ., transl. Sham. p. 133).
+
+lnum: 213
+
+image: [592](https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=snp&page=592)
+
+cologne link: [morawA](https://sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=snp&key=morawA)
+

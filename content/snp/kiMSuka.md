@@ -1,0 +1,14 @@
+---
+title: kiMSuka
+---
+
+# kiMSuka
+
+kiṃśuka  <div n="P" />Butea monosperma (Lamk.) Taub. (Na 1, nr. 130; V. 4, p. 118-119) = B. <div n="lb" />frondosa Roxb. (HB; HK) [= B. frondosa Koen. ex Roxb.] (Bpn, vaṭādi- <div n="lb" />varga 49; Kai. Nigh., oṣadhivarga 831cd-832; KB 1, p. 785-788).
+
+lnum: 298
+
+image: [433](https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=snp&page=433)
+
+cologne link: [kiMSuka](https://sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=snp&key=kiMSuka)
+

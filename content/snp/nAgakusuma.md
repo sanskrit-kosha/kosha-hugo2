@@ -1,0 +1,14 @@
+---
+title: nAgakusuma
+---
+
+# nAgakusuma
+
+nāgakusuma  <div n="P" />(The flowers of) nāgakeśara: Mesua ferrea Linn. Cf. nāgapuṣpa = <div n="lb" />nāgakesara (Nś. 10cd-11).
+
+lnum: 355
+
+image: [443](https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=snp&page=443)
+
+cologne link: [nAgakusuma](https://sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=snp&key=nAgakusuma)
+

@@ -1,0 +1,14 @@
+---
+title: maDUlikA
+---
+
+# maDUlikA
+
+<i>madhūlikā</i>  <div n="P" />(1) a) = <i>mūrvā</i> (Vśs); <div n="lb" />b) <bot>CLEMATIS TRILOBA HEYNE EX ROTH</bot> (KB 1, p. 4-5, = <i>mūrvā</i>); <div n="P" />(2) <bot>GLYCYRRHIZA GLABRA LINN.</bot> (Vśs, = <i>yaṣṭimadhu</i>); <div n="P" />(3) = <i>jalayaṣṭi</i> (Vśs, = <i>vallīyaṣṭimadhu;</i> unidentified); <div n="P" />(4) = <i>markaṭahastatṛṇa</i> (Vśs, unidentified); <div n="P" />(5) a small kind of wheat (Vśs).
+
+lnum: 195
+
+image: [588](https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=snp&page=588)
+
+cologne link: [maDUlikA](https://sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=snp&key=maDUlikA)
+

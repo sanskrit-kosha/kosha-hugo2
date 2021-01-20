@@ -1,0 +1,14 @@
+---
+title: bimbI
+---
+
+# bimbI
+
+<i>bimbī</i>  <div n="P" /><bot>COCCINIA INDICA WIGHT ET ARN.</bot> (Avk; Bpn, p. 674; Chopra; Dgv, <div n="lb" />nr. 167; Gul; HK; IRM 2, p. 257; Kav; KB 2, p. 1151-1154; Nadk. <div n="lb" />1, nr. 534; Sanyal; V 2, p. 45) [= <bot>C. CORDIFOLIA (LINN.) COGN.</bot>] (Cho- <div n="lb" />pra; IRM 2, p. 257) = <bot>C. CORDIFOLIA COGN.</bot> (Nadk. 1, nr. 534) = <div n="lb" /><bot>CEPHALANDRA INDICA NAUD.</bot> (Avk; Chopra; DWH 2, p. 86-89; Dy, p. <div n="lb" />351; Ghosh; HK; IRM 2, p. 257; KB 2, p. 1151-1154; Na 1, nr. 236; <div n="lb" />Nadk. 1, nr. 534; Sanyal; V 2, p. 45) = <bot>MOMORDICA MONADELPHA <div n="lb" />ROXB.</bot> (Avk; HK; Kav; KB 2, p. 1151-1154; MW; Nadk. 1, nr. 534; <div n="lb" />PW; Roxb., p. 696; Vśs; Wise) = <bot>BRYONIA CORDIFOLIA LINN.</bot>
+
+lnum: 180
+
+image: [582](https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=snp&page=582)
+
+cologne link: [bimbI](https://sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=snp&key=bimbI)
+

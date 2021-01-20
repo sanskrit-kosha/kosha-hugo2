@@ -1,0 +1,14 @@
+---
+title: BUtANkuSa
+---
+
+# BUtANkuSa
+
+<i>bhūtāṅkuśa</i>  <div n="P" />(1) <bot>CROTON OBLONGIFOLIUS ROXB.</bot> (Chopra; KB 3, p. 2254-2255; <div n="lb" />Nadk. 1, nr. 717; V 3, p. 141); <div n="P" />(2) <bot>ANISOMELES MALABARICA R. BR. EX SIMS</bot> (Nadk. 1, nr. 196; Vśs); <div n="P" />(3) <bot>A. OVATA R. BR.</bot> = <bot>A. DISTICHA HEYNE EX ROTH</bot> (Nadk. 1, <div n="lb" />nr. 196); <div n="P" />(4) [<bot>A. FRUTICOSA</bot>] (Nadk. 1, nr. 196); <div n="P" />(5) = <i>kṣavaka</i> (PW; Vśs); <div n="P" />(6) = <i>apāmārga</i> (Vśs); <div n="P" />(7) = <i>rājikā</i> (Vśs); <div n="P" />(8) = <i>gokṣura</i> (PW); <div n="P" />(9) = <i>krūra = raktakaravīra</i> (PW: <bot>NERIUM ODORUM RUBRO</bot>-<bot>SIM- <div n="lb" />PLEX</bot>); the correct name of <bot>N. ODORUM</bot> is <bot>N. ODORUM</bot> [<bot>SOLAND. IN</bot>] <div n="lb" /><bot>AIT.</bot>; acc. to Bpn, p. 314-316, <i>raktakaravīra</i> is <bot>THEVETIA NEREIFOLIA <div n="lb" />JUSS. EX STEUD.</bot>; <div n="P" />(10) = <i>tīkṣṇa</i> (PW: name of a number of plants).
+
+lnum: 185
+
+image: [584](https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=snp&page=584)
+
+cologne link: [BUtANkuSa](https://sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=snp&key=BUtANkuSa)
+

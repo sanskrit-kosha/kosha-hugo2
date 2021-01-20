@@ -1,0 +1,14 @@
+---
+title: yAvanAla
+---
+
+# yAvanAla
+
+<i>yā̆vanāla;</i>  see also <i>devadhānya</i> <div n="P" />(1) [<bot>SORGHUM VULGARE (LINN.) PERS. VAR. SACCHARATUM BOERL.</bot>] <div n="lb" />= <bot>S. VULGARE PERS.</bot> (AB 1, p. 354; DWH 3, p. 618-619; KB 4, p. <div n="lb" />2723-2724; Watt CP, p. 1031-1043) = <bot>ANDROPOGON SORGHUM BROT.</bot> <div n="lb" />(KB 4, p. 2723-2724) = <bot>A. BICOLOR ROXB.</bot> (MW; PW); <div n="P" />(2) <bot>ZEA MAYS LINN.</bot> (Chopra; KB 4, p. 2659-2661; Nadk. 1, nr. <div n="lb" />2653; Vśs).
+
+lnum: 217
+
+image: [593](https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=snp&page=593)
+
+cologne link: [yAvanAla](https://sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=snp&key=yAvanAla)
+

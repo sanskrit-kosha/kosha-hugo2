@@ -1,0 +1,14 @@
+---
+title: kamala
+---
+
+# kamala
+
+<i>kamala</i>  <div n="P" />(1) <bot>NELUMBIUM SPECIOSUM WILLD.</bot> (Bpn, p. 480; Dgv, nr. 80; Dutt; <div n="lb" />Gul; HB; HK; Kav; KB 1, p. 116-120; V 2, p. 70; Vśs) [= <bot>N. SPECIO- <div n="lb" />SUM WIGHT</bot>] (DWH 1, p. 70-73) = <bot>N. NUCIFERUM GAERTN.</bot> = <bot>NELUM- <div n="lb" />BO NUCIFERA GAERTN.</bot> (KB 1, p. 116-120; Na 1, nr. 18) = <bot>NYMPHAEA <div n="lb" />NELUMBO LINN.</bot> (Vśs); [Page-537+ 38] <div n="P" />(2) <bot>NYMPHAEA LOTUS LINN.</bot> [= <bot>N. LOTUS HOOK. F. ET THOMS.</bot>] (KB <div n="lb" />1, p. 112-113) = <bot>N. RUBRA ROXB. EX SALISB.</bot> (KB 1, p. 112-113); <bot>N. <div n="lb" />LOTUS LINN.</bot> is a species different from <bot>N. LOTUS HOOK. F. ET THOMS.</bot> <div n="lb" />acc. to KB 1, p. 112, but the names are synonyms acc. to Hooker <div n="lb" />(1, p. 114); <div n="P" />(3) = <i>padmakāṣṭha</i> (Vśs); <div n="P" />(4) = <i>kuṅkuma</i> (Vśs, <bot>CROCUS SATIVUS LINN.</bot>).
+
+lnum: 48
+
+image: [536](https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=snp&page=536)
+
+cologne link: [kamala](https://sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=snp&key=kamala)
+

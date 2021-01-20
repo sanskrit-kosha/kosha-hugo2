@@ -1,0 +1,14 @@
+---
+title: Amra
+---
+
+# Amra
+
+<i>āmra</i>  <div n="P" /><bot>MANGIFERA INDICA LINN.</bot> = <bot>M. DOMESTICA GAERTN.</bot> (Nadk. 1, nr. <div n="lb" />1547) = <bot>M. MONTANA HEYNE EX WIGHT ET ARN.</bot> (Nadk. 1, nr. 1547).
+
+lnum: 17
+
+image: [527](https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=snp&page=527)
+
+cologne link: [Amra](https://sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=snp&key=Amra)
+

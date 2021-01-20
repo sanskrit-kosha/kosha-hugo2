@@ -1,0 +1,14 @@
+---
+title: sitA
+---
+
+# sitA
+
+sitā  <div n="P" />(1) = kāṣṭhapāṭalā (Rā.nigh. 9, 152); <div n="P" />(2) = śvetavacā (Indu on A.s.U. 42, 30 and 32 and 34); <div n="P" />(3) = śvetadūrvā (Nś. 380ab). <div n="P" />Cf. Rā.nigh., pariśiṣṭa, daśārthāḥ 1: sitā is a synonym of bākucī, <div n="lb" />dūrvā, (madya), dhātrī, kuṭumbinī, candrikā, priyā, piṅga, trāyamāṇā <div n="lb" />and tejinī.
+
+lnum: 433
+
+image: [455](https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=snp&page=455)
+
+cologne link: [sitA](https://sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=snp&key=sitA)
+

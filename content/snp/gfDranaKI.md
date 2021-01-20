@@ -1,0 +1,14 @@
+---
+title: gfDranaKI
+---
+
+# gfDranaKI
+
+gṛdhranakhī  <div n="P" />(1) Hygrophila auriculata (Schum.) Heine = H. spinosa T. Anders. <div n="lb" />(HK: = kokilākṣa); <div n="P" />(2) Capparis sepiaria Linn. (Na 1, nr. 35; KB 1, p. 199-200); <div n="P" />(3) C. zeylanica Linn. (Bt.; VG); <div n="P" />(4) Zizyphus species (Bt.; cf. Nś. 70cd-71: = badarī).
+
+lnum: 316
+
+image: [436](https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=snp&page=436)
+
+cologne link: [gfDranaKI](https://sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=snp&key=gfDranaKI)
+

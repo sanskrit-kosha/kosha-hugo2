@@ -1,0 +1,14 @@
+---
+title: KarjUrI
+---
+
+# KarjUrI
+
+kharjūrī  <div n="P" />Phoenix species (Bt.: kharjūra is the name of the fruit, kharjūrī <div n="lb" />of the plant). See also the entry on tṛṇadruma, tṛṇavṛkṣa below, where <div n="lb" />kharjūra and kharjūrī appear to be different plants.
+
+lnum: 315
+
+image: [436](https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=snp&page=436)
+
+cologne link: [KarjUrI](https://sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=snp&key=KarjUrI)
+

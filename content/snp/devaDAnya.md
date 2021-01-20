@@ -1,0 +1,14 @@
+---
+title: devaDAnya
+---
+
+# devaDAnya
+
+<i>devadhānya</i>  <div n="P" />(1) [<bot>SORGHUM VULGARE (LINN.) PERS. VAR. SACCHARATUM BOERL.</bot>] = <div n="lb" /><bot>S. VULGARE PERS.</bot> = <bot>S. SACCHARATUM MOENCH.</bot> (DWH 3, p. 621) = <div n="lb" /><bot>S. CERNUUM WILLD.</bot> (MW) = <bot>ANDROPOGON SACCHARATUS ROXB.</bot> (Cho- <div n="lb" />pra; MW; PW; Roxb., p. 91) = <bot>A. SORGHUM ROXB.</bot> (PW) = <bot>A. SOR- <div n="lb" />GHUM BROT.</bot> (MW) = <bot>HOLCUS SACCHARATUM LINN.</bot> (MW); see about <div n="lb" />sorghum: Gode, St. <bot>I.</bot><bot>C.</bot><bot>H.</bot> 1, p. 266-282; <div n="P" />(2) <bot>ZEA MAYS LINN.</bot> (Vśs).
+
+lnum: 130
+
+image: [563](https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=snp&page=563)
+
+cologne link: [devaDAnya](https://sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=snp&key=devaDAnya)
+

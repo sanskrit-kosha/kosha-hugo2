@@ -1,0 +1,14 @@
+---
+title: yazwI
+---
+
+# yazwI
+
+yaṣṭī  <div n="P" />Glycyrrhiza glabra Linn.
+
+lnum: 399
+
+image: [449](https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=snp&page=449)
+
+cologne link: [yazwI](https://sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=snp&key=yazwI)
+

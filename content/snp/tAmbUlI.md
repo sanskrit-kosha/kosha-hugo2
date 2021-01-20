@@ -1,0 +1,14 @@
+---
+title: tAmbUlI
+---
+
+# tAmbUlI
+
+tāmbūlī  <div n="P" />Piper betle Linn.
+
+lnum: 335
+
+image: [439](https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=snp&page=439)
+
+cologne link: [tAmbUlI](https://sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=snp&key=tAmbUlI)
+

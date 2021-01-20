@@ -1,0 +1,14 @@
+---
+title: vanamudga
+---
+
+# vanamudga
+
+<i>vanamudga</i>  <div n="P" />(1) <bot>PHASEOLUS TRILOBUS AIT.</bot> (Avk; KB 1, p. 794-795; Nadk. 1, nr. <div n="lb" />1870, = <i>mudgaparṇī</i>); <div n="P" />(2) <bot>PH. ACONITIFOLIUS JACQ.</bot> (Bpn, p. 646 and KB 1, p. 798-799, = <div n="lb" /><i>makuṣṭha;</i> MW; Vśs, = <i>makuṣṭhaka</i>) = <bot>PH. TRILOBUS WALL.</bot>; un- <div n="lb" />clear are MW and PW: <bot>PH. TRILOBUS.</bot> <div n="P" />(3) <bot>PH. ADENANTHUS G. F. W. MEYER</bot> (Chopra and KB 1, p. 799- <div n="lb" />800: <i>araṇyamudga</i>) = <bot>PH. ROSTRATUS WALL.</bot> (KB 1, p. 799-800).
+
+lnum: 234
+
+image: [599](https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=snp&page=599)
+
+cologne link: [vanamudga](https://sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=snp&key=vanamudga)
+

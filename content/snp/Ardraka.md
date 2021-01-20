@@ -1,0 +1,14 @@
+---
+title: Ardraka
+---
+
+# Ardraka
+
+<i>ārdraka</i>  <div n="P" /><bot>ZINGIBER OFFICINALE ROSC.</bot> (Avk; Bpn, p. 14; Chopra; Dgv, nr. <div n="lb" />309; Dutt; DWH 3, p. 420-425; Gul; HB; HK; KB 4, p. 2435-2438; <div n="lb" />Nadk. 1, nr. 2658; PA 1, 9, p. 102-117; Roxb., p. 16; V 1, p. 33; Vśs) <div n="lb" />= <bot>Z. MISSIONIS WALL.</bot> (PA 1, 9, p. 114) [= <bot>CURCUMA LONGIFOLIA WALL. <div n="lb" />CAT.</bot>] (PA 1, 9, p. 114) = <bot>AMOMUM ANGUSTIFOLIUM SALISB.</bot> = <bot>A. <div n="lb" />ZINGIBER LINN.</bot> (Ainslie 1, p. 152-153; V 1, p. 33) [= <bot>A. ZINGIBER</bot> <div n="lb" />Rosc.] (PA 1, 9, p. 114).
+
+lnum: 19
+
+image: [527](https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=snp&page=527)
+
+cologne link: [Ardraka](https://sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=snp&key=Ardraka)
+

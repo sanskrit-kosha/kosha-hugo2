@@ -1,0 +1,14 @@
+---
+title: koSAmra
+---
+
+# koSAmra
+
+kośāmra  <div n="P" />Schleichera oleosa (Lour.) Oken = S. trijuga Willd. (Bpn, āmrādi- <div n="lb" />phalavarga 23-24; Nadk. 1, nr. 118; KB 1, p. 629-631; V. 3, p. 29) [= S. [Page-436+ 27] <div n="lb" />oleosa (Lour.) Merr.] (Bt.; Sharma).
+
+lnum: 311
+
+image: [435](https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=snp&page=435)
+
+cologne link: [koSAmra](https://sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=snp&key=koSAmra)
+

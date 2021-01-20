@@ -1,0 +1,14 @@
+---
+title: kaNkola
+---
+
+# kaNkola
+
+<i>kaṅkola</i>  <div n="P" />(1) <bot>PIPER CUBEBA LINN. F.</bot> (Bpn, p. 258-259; Dgv, nr. 267; DWH 3, <div n="lb" />p. 180-183; HK; MW; PW; V 2, p. 66); <div n="P" />(2) a particular substance sold under that name (Vśs).
+
+lnum: 37
+
+image: [533](https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=snp&page=533)
+
+cologne link: [kaNkola](https://sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=snp&key=kaNkola)
+

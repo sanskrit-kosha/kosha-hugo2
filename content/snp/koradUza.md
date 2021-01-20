@@ -1,0 +1,14 @@
+---
+title: koradUza
+---
+
+# koradUza
+
+<i>koradūṣa</i>  <div n="lb" />= <i>kodrava.</i>
+
+lnum: 77
+
+image: [547](https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=snp&page=547)
+
+cologne link: [koradUza](https://sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=snp&key=koradUza)
+

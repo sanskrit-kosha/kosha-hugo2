@@ -1,0 +1,14 @@
+---
+title: vEkuRWa
+---
+
+# vEkuRWa
+
+<i>vaikuṇṭha</i>  <div n="P" />(1) <bot>ANISOMELES MALABARICA R. BR. EX SIMS</bot> (Chopra; KB 3, p. <div n="lb" />2011-2012; V 4, p. 70); <div n="P" />(2) a) a kind of Ocimum (MW); <div n="lb" />b) = <i>arjaka</i> (Rn, <i>varga</i> 23, 6; Vśs); <div n="lb" />c) = <i>kuṭhera</i> (HK).
+
+lnum: 242
+
+image: [602](https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=snp&page=602)
+
+cologne link: [vEkuRWa](https://sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=snp&key=vEkuRWa)
+

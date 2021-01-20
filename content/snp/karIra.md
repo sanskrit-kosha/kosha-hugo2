@@ -1,0 +1,14 @@
+---
+title: karIra
+---
+
+# karIra
+
+<i>karīra</i>  <div n="P" />(1) <bot>CAPPARIS APHYLLA ROTH</bot> (Avk; Bpn, p. 541; Chopra; Dgm, p. <div n="lb" />151-152; Dgv, nr. 32; Dutt; DWH 1, p. 131-132; Dy, p. 64; Gul; HK; <div n="lb" />IRM 2, p. 67; Kav; KB 1, p. 197-199; MW; Nadk. 1, nr. 448; PW; <div n="lb" />V 2, p. 79; Vśs) = <bot>C. DECIDUA EDGEW.</bot> (Chopra; IRM 2, p. 67; KB 1, <div n="lb" />p. 197-199; Na 1, nr. 32; V 2, p. 79) = <bot>C. SODADA R. BR.</bot> (Dutt; HK) <div n="lb" />= <bot>SODADA DECIDUA FORSK.</bot> (KB 1, p. 197-199); <div n="P" />(2) <bot>C. SPINOSA LINN.</bot> (Dgm, p. 151-152; Nadk. 1, nr. 448); <div n="P" />(3) [unguis odoratus] (Losch: = <i>marujadruma; marujadruma</i> is acc. <div n="lb" />to PW a tree related to <i>khadira</i>); see Dietz, p. 57, about unguis odo- <div n="lb" />ratus; <div n="P" />(4) [<bot>CADABA APHYLLA ROTH</bot>] (Avk); the Index Kewensis mentions <div n="lb" />only: <bot>CADABA JUNCEA HARV.</bot> = <bot>C. APHYLLA (THUNB.) WILLD.</bot>
+
+lnum: 51
+
+image: [538](https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=snp&page=538)
+
+cologne link: [karIra](https://sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=snp&key=karIra)
+

@@ -1,0 +1,14 @@
+---
+title: kAkaRantI
+---
+
+# kAkaRantI
+
+<i>kākaṇantī = kākaṇantikā</i>  <div n="P" />(1) <bot>ABRUS PRECATORIUS LINN.</bot>; <div n="P" />(2) = <i>muñja</i> (HK).
+
+lnum: 59
+
+image: [541](https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=snp&page=541)
+
+cologne link: [kAkaRantI](https://sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=snp&key=kAkaRantI)
+

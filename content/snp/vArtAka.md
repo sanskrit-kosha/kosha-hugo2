@@ -1,0 +1,14 @@
+---
+title: vArtAka
+---
+
+# vArtAka
+
+vārtāka  <div n="P" />Solanum melongena Linn. (brinjal, eggplant).
+
+lnum: 412
+
+image: [451](https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=snp&page=451)
+
+cologne link: [vArtAka](https://sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=snp&key=vArtAka)
+

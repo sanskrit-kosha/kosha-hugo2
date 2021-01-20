@@ -1,0 +1,14 @@
+---
+title: sumuKa
+---
+
+# sumuKa
+
+<i>sumukha</i>  <div n="P" />(1) a) <bot>OCIMUM BASILICUM LINN.</bot> (HK) = <bot>O. ALBUM LINN.</bot> (HK); <div n="P" />b) [<bot>O. BASILICUM PILOSUM</bot>] (MW; PW); <div n="P" />(2) <bot>O. GRATISSIMUM LINN.</bot> (KB 3, p. 1965); <div n="P" />(3) a) a wild Ocimum (PW); <div n="P" />b) = <i>barbara</i> (PW); <div n="P" />c) a dark kind of <i>barbara</i> (Vśs); <div n="P" />d) = <i>vanabarbarī</i> (Vśs); <div n="P" />e) = <i>vanabarbarikā</i> (Ḍa. on Su.Sū. 38, 18 and Sū. 46, 221; Rn, <div n="lb" /><i>varga</i> 10, 88); <div n="P" />(4) = <i>kṣudratulasī</i> with white leaves (see <i>tulasī</i>) (Vśs); <div n="P" />(5) a kind of <i>parṇāsa</i> (Cakra on Ca.Sū. 27, 173); <div n="P" />(6) = <i>kaṭupatraka:</i> acc. to PW and Vśs: a) = <i>sitārjaka</i> (see <i>arjaka</i>), <div n="lb" />b) = <i>parpaṭa;</i> <div n="lb" />(Aruṇa on <bot>A.</bot>h.Sū. 6, 106; Dn, <i>varga</i> 4, 57); <div n="P" />(7) = <i>rājikā</i> (Vśs; Ḍa. on Su.Sū. 38, 18).
+
+lnum: 257
+
+image: [608](https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=snp&page=608)
+
+cologne link: [sumuKa](https://sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=snp&key=sumuKa)
+

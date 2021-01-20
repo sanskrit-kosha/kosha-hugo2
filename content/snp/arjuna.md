@@ -1,0 +1,14 @@
+---
+title: arjuna
+---
+
+# arjuna
+
+arjuna  <div n="P" />(1) Terminalia arjuna (Roxb.) Wight et Arn. (Bpn, vaṭādivarga 26; <div n="lb" />Nadk. 1, nr. 2448; Bt.; Chopra; Sharma; DGV 5, p. 31-35; CD, p. 18-25; KB <div n="lb" />2, p. 1023-1028); <div n="P" />(2) T. myriocarpa Heurck et Muell.-Arg. (DGV 5, p. 33); <div n="P" />(3) T. tomentosa Wight et Arn. (CD, p. 19-20; V. 1, p. 87); <div n="P" />(4) Sterculia urens Roxb. (CD, p. 19-21; V. 1, p. 87); <div n="P" />(5) Lagerstroemia speciosa (Linn.) Pers. = L. flos-reginae Retz. <div n="lb" />(CD, p. 20; KB 2, p. 1080-1081; Nadk. 1, nr. 1420) = tiniśa.
+
+lnum: 275
+
+image: [429](https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=snp&page=429)
+
+cologne link: [arjuna](https://sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=snp&key=arjuna)
+

@@ -1,0 +1,14 @@
+---
+title: rOhiRIka
+---
+
+# rOhiRIka
+
+<i>rauhiṇīka</i>  <div n="P" />Cakra on Ca. Ni. 2, 4: = the potherb called <i>rohiṇī.</i>
+
+lnum: 223
+
+image: [597](https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=snp&page=597)
+
+cologne link: [rOhiRIka](https://sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=snp&key=rOhiRIka)
+

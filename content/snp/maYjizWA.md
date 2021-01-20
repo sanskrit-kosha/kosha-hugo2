@@ -1,0 +1,14 @@
+---
+title: maYjizWA
+---
+
+# maYjizWA
+
+<i>mañjiṣṭhā</i>  <div n="P" />(1) <bot>RUBIA CORDIFOLIA LINN.</bot> = <bot>R. MUNJISTA ROXB.</bot> (Dutt; HK; <div n="lb" />Nadk. 1, nr. 2162) = <bot>R. SECUNDA MOON</bot> (Nadk. 1, nr. 2162); <div n="P" />(2) <bot>R. SIKKIMENSIS KURZ</bot> (used in Assam acc. to Watt CP, p. 927).
+
+lnum: 190
+
+image: [585](https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=snp&page=585)
+
+cologne link: [maYjizWA](https://sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=snp&key=maYjizWA)
+

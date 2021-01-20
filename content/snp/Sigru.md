@@ -1,0 +1,14 @@
+---
+title: Sigru
+---
+
+# Sigru
+
+<i>śigru = śobhāñjana</i>  <div n="P" />(1) <bot>MORINGA PTERYGOSPERMA GAERTN.</bot> (AFM 1, p. 91-93; Avk; <div n="lb" />Bpn, p. 339-340; Chopra; Dgv, nr. 95; Dutt; DWH 1, p. 396-399; <div n="lb" />Dy, p. 206-208; Gul; HB; HK; Kav; KB 1, p. 677-682; MW; Na 1, <div n="lb" />nr. 129; Nadk. 1, nr. 1656; PA 1, 4, p. 19-33; PW; V 9, p. 100; Vśs) <div n="lb" />= <bot>M. OLEIFERA LAM.</bot> (AFM 1, p. 91-93; Chopra; KB 1, p. 677-682; <div n="lb" />Na 1, nr. 129; Nadk. 1, nr. 1656; PA 1, 4, p. 19-33) = <bot>HYPERANTHERA <div n="lb" />MORINGA VAHL</bot> (Ainslie 1, p. 175-177; HK) [= <bot>H. MORINGA WILLD.</bot>] <div n="lb" />(Dutt; Kav; Roxb., p. 360) = <bot>H. MORINGA</bot> (Nadk. 1, nr. 1656; Vśs; <div n="lb" />Wise); <div n="P" />(2) <bot>MORINGA MORINGA (LINN.) MILLSP.</bot> = <bot>GUILANDINA MORINGA <div n="lb" />LINN.</bot> (Avk; Nadk. 1, nr. 1656); <div n="P" />(3) <bot>MORINGA CONCANENSIS NIMMO EX DALZ. ET GIBS.</bot> (see Bpn, p. <div n="lb" />340; Chopra: <i>śvetaśigru;</i> Dgv, nr. 95; KB 1, p. 682-683: <i>tiktaśigru,</i> <div n="lb" /><i>madhuśigru, śvetaśigru;</i> Na 1, nr. 129: <i>kaṭuśigru;</i> Nadk. 1, nr. 1655: <div n="lb" />used as a substitute; PA 1, 4, p. 19: <i>madhuśigru;</i> V 10, p. 1).
+
+lnum: 246
+
+image: [603](https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=snp&page=603)
+
+cologne link: [Sigru](https://sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=snp&key=Sigru)
+

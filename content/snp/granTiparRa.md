@@ -1,0 +1,14 @@
+---
+title: granTiparRa
+---
+
+# granTiparRa
+
+<i>granthiparṇa</i>  <div n="P" />(1) <bot>POLYGONUM AVICULARE LINN.</bot> (Bpn, p. 252); <div n="P" />(2) <bot>ARTEMISIA VULGARIS LINN.</bot> (KB 2, p. 1395-1397); <div n="P" />(3) a particular fragrant plant (MW; PW); <div n="P" />(4) = <i>coraka</i> (MW; PW; Vśs).
+
+lnum: 93
+
+image: [552](https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=snp&page=552)
+
+cologne link: [granTiparRa](https://sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=snp&key=granTiparRa)
+

@@ -1,0 +1,14 @@
+---
+title: kumBI
+---
+
+# kumBI
+
+<i>kumbhī(vṛkṣa)</i>  <div n="P" />(1) <bot>CAREYA ARBOREA ROXB.</bot> (Chopra; DWH 2, p. 19-20; IRM 2, p. <div n="lb" />76; Na 1, nr. 216; Nadk. 1, nr. 475; V 2, p. 18); <div n="P" />(2) <bot>STEREOSPERMUM SUAVEOLENS DC.</bot> (KB 3, p. 1848-1849) = <div n="lb" /><bot>BIGNONIA SUAVEOLENS ROXB.</bot> (MW; PW; Vśs); <div n="P" />(3) <bot>LEUCAS LAVANDULAEFOLIA SM.</bot> = <bot>L. LINIFOLIA SPRENG.</bot> (KB 3, <div n="lb" />p. 2020-2021; PW: = <i>droṇapuṣpī</i>); <div n="P" />(4) <bot>LEUCAS CAPITATA DESF.</bot> = <bot>L. CEPHALOTES SPRENG.</bot> (PW: <div n="lb" />= <i>droṇapuṣpī</i>); <div n="P" />(5) <bot>MYRICA NAGI THUNB.</bot> (KB 3, p. 2350-2351; Nadk. 1, nr. 1673) = <div n="lb" /><bot>M. SAPIDA WALL.</bot> (MW; Nadk. 1, nr. 1673; Vśs); <div n="P" />(6) <bot>M. CERIFERA LINN.</bot> (Nadk. 1, nr. 1673); <div n="P" />(7) <bot>BALIOSPERMUM AXILLARE BLUME</bot> = <bot>B. MONTANUM MUELL. ARG.</bot> <div n="lb" />(KB 3, p. 2278-2279; Vśs) = <bot>CROTON POLYANDRUS ROXB.</bot> (MW; Vśs); <div n="P" />(8) <bot>BOSWELLIA SERRATA ROXB. EX COLEBR.</bot> (KB 1, p. 521-523); <div n="P" />(9) <bot>COMMIPHORA MUKUL ENGL.</bot> (KB 1, p. 526-528) [= <bot>BALSAMODEN- <div n="lb" />DRUM MUKUL HOOK. EX STOCKS</bot>] (KB 1, p. 526-528; Vśs) = <bot>B. ROX- <div n="lb" />BURGHII STOCKS</bot> (KB 1, p. 526-528) (see about the nomenclature: <div n="lb" /><i>agaru</i>); <div n="P" />(10) = <i>pṛśniparṇī</i> (Vśs).
+
+lnum: 69
+
+image: [544](https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=snp&page=544)
+
+cologne link: [kumBI](https://sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=snp&key=kumBI)
+

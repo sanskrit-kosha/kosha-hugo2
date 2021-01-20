@@ -1,0 +1,14 @@
+---
+title: karavIra
+---
+
+# karavIra
+
+karavīra  <div n="P" />(1) Nerium indicum Miller = N. odorum Solander (HK; Bpn, guḍūcyādi- <div n="lb" />varga 82-84; Nadk. 1, nr. 1709; Na 1, nr. 326; KB 2, p. 1584-1586) (śvetapuṣpa <div n="lb" />karavīra); <div n="P" />(2) Thevetia peruviana (Pers.) K. Schum. = T. neriifolia Juss. (Bpn, <div n="lb" />guḍūcyādivarga 82-84; KB 2, p. 1554-1556) (raktapuṣpa karavīra) (this <div n="lb" />species is a native of tropical America, now pantropic).
+
+lnum: 289
+
+image: [432](https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=snp&page=432)
+
+cologne link: [karavIra](https://sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=snp&key=karavIra)
+

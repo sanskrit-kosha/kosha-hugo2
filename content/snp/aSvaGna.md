@@ -1,0 +1,14 @@
+---
+title: aSvaGna
+---
+
+# aSvaGna
+
+aśvaghna  <div n="P" />(1) Thevetia peruviana (Pers.) K. Schum. (WIRM 10, p. 225: T. peruvi- <div n="lb" />ana (Pers.) Merrill) = T. neriifolia Juss. (KB 2, p. 1554-1556); <div n="P" />(2) Nerium indicum Miller (Bt. = karavīra) = N. odorum Solander <div n="lb" />(HK = karavīra); <div n="P" />(3) Erythrina variegata Linn. var. orientalis (Linn.) Merr. = E. <div n="lb" />indica Lamk. (V. 4, p. 80: pārijāta).
+
+lnum: 278
+
+image: [430](https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=snp&page=430)
+
+cologne link: [aSvaGna](https://sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=snp&key=aSvaGna)
+

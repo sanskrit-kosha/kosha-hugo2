@@ -1,0 +1,14 @@
+---
+title: tejovatI
+---
+
+# tejovatI
+
+<i>tejovatī</i>  <div n="P" />(1) = <i>jyotiṣmatī</i> (HK); <div n="P" />(2) = <i>mahājyotiṣmatī</i> (see <i>jyotiṣmatī</i>) (MW; PW; Vśs); <div n="P" />(3) <bot>PIPER CHABA HUNTER</bot> (KB 3, p. 2130-2131; MW; PW; Vśs); <div n="P" />(4) <bot>PIPER NIGRUM LINN.</bot> (Vśs); <div n="P" />(5) <bot>SCINDAPSUS OFFICINALIS SCHOTT</bot> (MW; PW; Vśs) = <bot>POTHOS <div n="lb" />OFFICINALIS ROXB.</bot> (Vśs; Wise); <div n="P" />(6) <bot>ACORUS CALAMUS LINN.</bot> (Vśs); <div n="P" />(7) <bot>ZANTHOXYLUM ALATUM ROXB.</bot> (Bpn, p. 89: <i>tejavatī;</i> Dgv, nr. 74); <div n="P" />(8) <bot>Z. RHETSA DC.</bot> (KB 1, p. 464-465: <i>tejavatī;</i> Na 1, nr. 94); <div n="P" />(9) <bot>Z. BUDRUNGA WALL.</bot> (KB 1, p. 464-465: <i>tejavatī</i>) = <bot>FAGARA <div n="lb" />BUDRUNGA ROXB.</bot> (KB 1, p. 464-465); <div n="P" />(10) = <i>tejovalkala</i> (Vśs, unidentified); <div n="P" />(11) <i>jīvantī</i> with yellow flowers (<i>svarṇajīvantī</i>) (Vśs); a great number <div n="lb" />of plants is called <i>jīvantī.</i>
+
+lnum: 120
+
+image: [560](https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=snp&page=560)
+
+cologne link: [tejovatI](https://sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=snp&key=tejovatI)
+

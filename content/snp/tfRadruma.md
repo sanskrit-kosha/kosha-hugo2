@@ -1,0 +1,14 @@
+---
+title: tfRadruma
+---
+
+# tfRadruma
+
+tṛṇadruma,  tṛṇavṛkṣa <div n="P" />The following are called tṛṇadrumāḥ or tṛṇavṛkṣāh: tāla and all si- <div n="lb" />milar trees, kramuka, ketakī, kharjūrī and nālikera and the like (Rā. <div n="lb" />nigh., pariśiṣṭa 3, 39); tāla, nālikera, ghoṇṭā (= kramuka, l. c.), hin- <div n="lb" />tāla, kharjūra, ketakī, tālī and kharjūrī (Amarakośa 2, 4, 169-170); [Page-441+ 29] <div n="lb" />hintāla, lāṅgalī, kramuka, tala (= tāla, comm. ad l. c.), kharjūrī, <div n="lb" />tālikā (= tālī = tamālikā acc. to Rā.nigh., pariśiṣṭa 3, 37; = hrasvā <div n="lb" />tālajātiḥ acc. to comm. ad Śivakoṣa 338), kharjūra and krakacacchada <div n="lb" />(= ketakī, comm. ad l. c.) (Śivakoṣa 338); kharjūra, tāla, kharjūrī, <div n="lb" />tālī, hintāla, ketaka, kramuka and nālikera (Nś. 183).
+
+lnum: 342
+
+image: [440](https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=snp&page=440)
+
+cologne link: [tfRadruma](https://sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=snp&key=tfRadruma)
+

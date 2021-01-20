@@ -1,0 +1,14 @@
+---
+title: maNgalya
+---
+
+# maNgalya
+
+<i>maṅgalya</i>  <div n="P" />(1) <bot>LENS ESCULENTA MOENCH.</bot> [Intern. Code] = <bot>ERVUM LENS LINN.</bot> <div n="lb" />(Vśs) = <bot>CICER LENS WILLD.</bot> (MW; Vśs) = <bot>VICIA LENS COSS. ET GERM.</bot> <div n="lb" />(Vśs); <div n="P" />(2) <bot>AEGLE MARMELOS (LINN.) CORREA</bot> [Intern. Code] (KB 1, p. 499- <div n="lb" />502; MW; PW; Vśs); <div n="P" />(3) <bot>FICUS RELIGIOSA LINN.</bot> (KB 3, p. 2317-2319; MW; PW; Vśs); <div n="P" />(4) <bot>F. HETEROPHYLLA LINN. F.</bot> (MW; PW: = <i>trāyamāṇa</i>); <div n="P" />(5) <bot>COCOS NUCIFERA LINN.</bot> (KB 4, p. 2581-2585; MW; PW; Vśs); <div n="P" />(6) <bot>FERONIA ELEPHANTUM CORR.</bot> (KB 1, p. 496-498; MW; PW; Vśs); <div n="P" />(7) <bot>CROCUS SATIVUS LINN.</bot> (Nadk. 1, nr. 701); <div n="P" />(8) <bot>SAPINDUS TRIFOLIATUS LINN.</bot> (Bpn, p. 530; KB 1, p. 632-635; <div n="lb" />V 1, p. 85) = <bot>S. LAURIFOLIUS VAHL</bot> (KB 1, p. 632); <div n="P" />(9) <bot>SAPINDUS MUKOROSSI GAERTN.</bot> (Bpn, p. 529; V 1, p. 85) = <bot>S. <div n="lb" />DETERGENS ROXB.</bot>; <div n="P" />(10) <bot>DENDROBIUM MACRAEI LINDL.</bot> (DWH 3, p. 389-390; KB 4, p. <div n="lb" />2401-2402; Nadk. 1, nr. 812); <div n="P" />(11) <bot>D. PLICATILE LINDL.</bot> = <bot>DESMOTRICHUM FIMBRIATUM BL.</bot> (KB 4, <div n="lb" />p. 2401-2402); acc. to Hooker (vol. 5, p. 714), followed by Chopra and <div n="lb" />KB, <bot>DENDROBIUM MACRAEI LINDL.</bot> and <bot>DESMOTRICHUM FIMBRIATUM <div n="lb" />BL.</bot> are synonyms; <div n="P" />(12) = <i>jīvaka</i> (MW; PW; Vśs, = <bot>PENTAPTERA TOMENTOSA ROXB.</bot>, <div n="lb" />i. e. <bot>TERMINALIA TOMENTOSA WIGHT ET ARN.</bot>); <div n="P" />(13) = <i>rīṭhākarañja</i> (PW; Vśs, unidentified); <div n="P" />(14) = <i>jalamadhūka</i> (Vśs, unidentified; synonyms are enumerated <div n="lb" />in PW, a. o. <i>pataṅga:</i> <bot>CAESALPINIA SAPPAN LINN.</bot>).
+
+lnum: 189
+
+image: [585](https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=snp&page=585)
+
+cologne link: [maNgalya](https://sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/getword.php?dict=snp&key=maNgalya)
+
